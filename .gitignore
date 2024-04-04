@@ -1,0 +1,9 @@
+# ignore data and models
+data
+models
+
+# index
+index
+
+# ignore virtual environment
+scaffolding_venv
